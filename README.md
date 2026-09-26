@@ -17,7 +17,7 @@
 - 👯 I'm looking to collaborate on **AI/ML & Automation Projects**
 - 💬 Ask me about **AI Engineering, ML, MLOps, n8n**
 - 📫 How to reach me: **hammihammad67@gmail.com**
-- ⚡ Fun fact: **I love chai ☕ and clean automation**
+- ⚡ Fun fact: **I love coffee ☕ and clean automation**
 
 ---
 
