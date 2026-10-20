@@ -5,13 +5,13 @@
 <h3 align="center">🤖 AI Engineer | ML Engineer | MLOps | Workflow Automation</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-hammad27">
+  <a href="https://www.linkedin.com/in/hammad-hammi-165305369/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:hammihammad67@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/MuhammadHammad27">
+  <a href="https://github.com/MuhammadHammad27" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=MuhammadHammad27&style=for-the-badge&color=2CB5A0" alt="Profile Views"/>
@@ -27,7 +27,8 @@
 - 🌱 Learning **MLOps, LangGraph, LangChain, n8n**
 - 🤝 Open to collaborate on **AI/ML & Automation Projects**
 - 💬 Ask me about **AI Engineering, ML, MLOps, n8n, LangChain**
-- 📫 Reach me at: **hammihammad67@gmail.com**
+- 📫 Reach me at: **[hammihammad67@gmail.com](mailto:hammihammad67@gmail.com)**
+- 🔗 Connect with me: **[LinkedIn Profile](https://www.linkedin.com/in/hammad-hammi-165305369/)**
 - ⚡ Fun fact: **I love ☕ coffee and clean, elegant automation**
 
 <br clear="right"/>
