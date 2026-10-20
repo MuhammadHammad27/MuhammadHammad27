@@ -82,15 +82,15 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadHammad27&theme=radical&no-frame=true&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadHammad27&theme=radical&no-frame=true&margin-w=8&margin-h=8&row=2&column=4" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHammad27&theme=react-dark&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHammad27&theme=react-dark&hide_border=true&area=true&area_color=2CB5A0&line=2CB5A0&point=FFFFFF&color=FFFFFF" width="100%"/>
 </p>
 
 ---
