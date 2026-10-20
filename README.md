@@ -1,44 +1,67 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=2CB5A0&center=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Hammad;AI+%26+ML+Engineer;MLOps+Enthusiast;n8n+Workflow+Automation" alt="Typing SVG" />
+</h1>
 
-<h1 align="center">Hi 👋, I'm Muhammad Hammad27</h1>
-<h3 align="center">AI Engineer | ML Engineer | MLOps | n8n Workflow Automation</h3>
+<h3 align="center">🤖 AI Engineer | ML Engineer | MLOps | Workflow Automation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2CB5A0&center=true&width=500&lines=AI+Engineer;ML+Engineer;MLOps+Enthusiast;n8n+Workflow+Automation;Always+Learning+New+Things" />
+  <a href="https://www.linkedin.com/in/muhammad-hammad27">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:hammihammad67@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/MuhammadHammad27">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=MuhammadHammad27&style=for-the-badge&color=2CB5A0" alt="Profile Views"/>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
+<img align="right" alt="Coding" width="280" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 
-- 🔭 I'm currently working on **AI & ML Engineering Projects**
-- 🌱 I'm currently learning **MLOps, AI Agents, Workflow Automation**
-- 👯 I'm looking to collaborate on **AI/ML & Automation Projects**
-- 💬 Ask me about **AI Engineering, ML, MLOps, n8n**
-- 📫 How to reach me: **hammihammad67@gmail.com**
-- ⚡ Fun fact: **I love coffee ☕ and clean automation**
+- 🔭 Currently working on **AI Agents & Automation Systems**
+- 🌱 Learning **MLOps, LangGraph, LangChain, n8n**
+- 🤝 Open to collaborate on **AI/ML & Automation Projects**
+- 💬 Ask me about **AI Engineering, ML, MLOps, n8n, LangChain**
+- 📫 Reach me at: **hammihammad67@gmail.com**
+- ⚡ Fun fact: **I love ☕ coffee and clean, elegant automation**
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
-<p align="center">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/></a>
-  <a href="https://n8n.io" target="_blank"><img src="https://raw.githubusercontent.com/n8n-io/n8n/master/packages/editor-ui/src/assets/n8n-logo.svg" alt="n8n" width="50" height="50"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="50" height="50"/></a>
-  <a href="https://streamlit.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="50" height="50"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/></a>
-  <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="50" height="50"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/></a>
+### 🤖 AI & ML
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
+
+### ⚙️ MLOps & Automation
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+### 🗄️ Data & Databases
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ---
@@ -46,7 +69,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadHammad27&show_icons=true&theme=radical&hide_border=true&border_radius=10" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadHammad27&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadHammad27&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" width="48%"/>
 </p>
 
@@ -54,30 +77,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHammad27&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadHammad27&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-</p>
-
 ---
 
-## 📌 Pinned Projects
-
-### 🤖 AI Project
-[![ai](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadHammad27&repo=ai&theme=radical&hide_border=true)](https://github.com/MuhammadHammad27/ai)
-
-### 🧠 My AI Assistant
-[![my_ai_assistant](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadHammad27&repo=my_ai_assistant&theme=radical&hide_border=true)](https://github.com/MuhammadHammad27/my_ai_assistant)
-
----
-
-## 🌐 Connect with Me
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="mailto:hammihammad67@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/MuhammadHammad27"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/muhammad-hammad27"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadHammad27&theme=radical&no-frame=true&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -85,7 +90,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHammad27&theme=radical&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHammad27&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </p>
 
 ---
@@ -93,17 +98,13 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MuhammadHammad27/MuhammadHammad27/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/MuhammadHammad27/MuhammadHammad27/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
-
-### 📫 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadHammad27&style=for-the-badge&color=2CB5A0"/>
+  <b>✨ "Build things that matter. Automate everything else." ✨</b>
 </p>
 
----
-
-<p align="center"><b>⭐️ From MuhammadHammad27</b></p>
+<p align="center">Made with ❤️ by <a href="https://github.com/MuhammadHammad27">Muhammad Hammad</a></p>
